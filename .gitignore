@@ -1,0 +1,4 @@
+.gitsecret/keys/random_seed
+!*.secret
+scr/main.py
+scr/__init__.py
